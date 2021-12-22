@@ -222,7 +222,7 @@ body {
 .pricing-button:hover,
 .pricing-button:focus {
   background-color: var(--border-color);
-  transition: background-color 0.5s linear;
+  /* transition: background-color 0.5s linear; */
 }
 
 .pricing-button.is-featured {
@@ -234,7 +234,7 @@ body {
 .pricing-button.is-featured:hover,
 .pricing-button.is-featured:focus {
   background-color: var(--button-color);
-  transition: background-color 0.5s linear;
+  /* transition: background-color 0.5s linear; */
 }
 
 @media only screen and (min-width: 900px) {
