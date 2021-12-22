@@ -124,3 +124,16 @@ table {
   border-collapse: collapse;
   border-spacing: 0;
 }
+
+/* Color Pallet  */
+* {
+  --main-color: #60a9ff;
+  --panel-color: #fff;
+  --border-color: #e1f1ff;
+  --text-color: #016ff9;
+  --pricing-color: #888;
+}
+
+* {
+  box-sizing: border-box;
+}
